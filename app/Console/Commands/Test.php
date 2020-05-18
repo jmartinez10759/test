@@ -5,7 +5,6 @@ namespace App\Console\Commands;
 use Illuminate\Console\Command;
 use GuzzleHttp\Client;
 use Illuminate\Http\Response;
-use function Psy\debug;
 
 /**
  * Class Test
